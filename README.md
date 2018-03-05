@@ -16,7 +16,7 @@ by switching to the stand-by mode.
 
 ## Initialize
 
-After installing the plugin, you can initialize it by calling
+Just add the following code to the code, executed on your client:
 
 ```javascript
 import { init } from "meteor/simonsimcity:client-session-timeout";
